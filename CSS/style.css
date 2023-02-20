@@ -1,0 +1,30 @@
+body{
+    background-color: lightgray;
+}
+.container{
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    position: relative;
+    margin: 100px auto 100px auto;
+    padding: 20px;
+    
+font-family: 'Outfit', sans-serif;
+    border-radius: 25px;
+    font-weight: 400 700;
+}
+.pic{
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    
+}
+.heading{
+    
+    margin: auto;
+}
+
+.discription{
+    
+    margin: auto;
+}
